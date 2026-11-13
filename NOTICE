@@ -1,0 +1,9 @@
+JARVIS AI by Maurice Arinde is a customised derivative distribution of OpenJarvis.
+
+The underlying OpenJarvis framework and its original contributions remain credited to
+their respective copyright holders and contributors. The original Apache License 2.0
+is retained in LICENSE. See UPSTREAM_README.md and
+https://github.com/open-jarvis/OpenJarvis for upstream project information.
+
+Maurice Arinde's custom branding, documentation, configuration changes and other
+original modifications are separate additions to the upstream project.
